@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Super Smash Bros PC Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/super-smash-bros-pc-edition)
+[![Download Super Smash Bros PC Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YQZuYSTzbioWTLlE0)
 
 </div>
 
@@ -152,7 +152,7 @@
 
 <div align="center">
 
-[![Download Super Smash Bros PC Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/super-smash-bros-pc-edition)
+[![Download Super Smash Bros PC Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YQZuYSTzbioWTLlE0)
 
 </div>
 
@@ -348,7 +348,7 @@ Smash on PC anytime for free. **Super Smash Bros PC Edition Updated** gives you 
 
 <div align="center">
 
-[![Download Super Smash Bros PC Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/super-smash-bros-pc-edition)
+[![Download Super Smash Bros PC Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YQZuYSTzbioWTLlE0)
 
 **Version 3.0.0** — Free fan-made Smash Bros PC port. May 2026 update. Zero cost. No payment.
 
